@@ -19,8 +19,6 @@ Este projeto é um clone da interface do Spotify, desenvolvido utilizando apenas
 ```
 📁 spotify-clone
 │-- index.html
-│-- LISENCE.txt
-│-- README.md
 │-- styles.css
 ```
 
